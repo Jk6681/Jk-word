@@ -1,0 +1,6 @@
+{
+  "name": "Jk Word office",
+  "description": "Professional native Android word processor v8.0 with ultra-fast zero-latency editing, DOCX/PDF export, rich formatting, tables, and images",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
